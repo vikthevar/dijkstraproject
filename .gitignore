@@ -1,0 +1,5 @@
+*.o
+dijkstra
+.DS_Store
+report.pdf
+Makefile
